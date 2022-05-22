@@ -1,6 +1,6 @@
 <h1 align = 'center'>Om Ankesh <h/1>
 
-### WelCome to My Profile
+### Welcome to My Profile
 
 - <b>🔭</b> I’m currently working on <a href="https://github.com/omankesh?tab=repositories">Data Science Projects</a> and _kaggling_ (Contributor 📝)
 - <b>📚</b> I’m currently learning [ML/DL](https://github.com/omankesh) .......
